@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "description": "My Portfolio",
+  "description": "My Website",
   "main": "index.js",
   "dependencies": {
     "ejs": "^2.5.9",
@@ -16,11 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cianomahonyy/portfolio"
+    "url": "git+https://github.com/jomaoppa/node-js-template.git"
   },
   "keywords": [
     "node"
   ],
-  "author": "Cian",
-  "license": "ISC"
+  "author": "Joma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jomaoppa/node-js-template/issues"
+  },
+  "homepage": "https://github.com/jomaoppa/node-js-template#readme"
 }
